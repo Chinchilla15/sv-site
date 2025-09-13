@@ -7,10 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Descubre El Salvador | Feria Universitaria",
+  title: "Descubre El Salvador",
   description:
     "Conoce la rica cultura, historia, comida, lugares y tradiciones de El Salvador. Perfecto para estudiantes y educadores internacionales.",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
